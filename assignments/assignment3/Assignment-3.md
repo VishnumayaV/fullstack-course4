@@ -94,6 +94,13 @@ For a visual reference of this view, see the mobile mockup illustration below.
 
 8.  (OPTIONAL, NOT GRADED) Link the menu items "Chicken", "Beef", "Sushi" from the mobile-only menu drop down to jump to the part of the page those sections correspond to.
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- Your content here -->
+    </div>
+  </div>
+</div>
 
 
 **MOCKUP ILLUSTRATIONS ARE BELOW:**
